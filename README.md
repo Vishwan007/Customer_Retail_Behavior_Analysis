@@ -22,11 +22,12 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 # 🛠️ How to Use This Project
 
-Clone the repository
+1) Clone the repository
 
 git clone https://github.com/Vishwan007/Customer_Retail_Behavior_Analysis.git
 cd customer-trends-data-analysis-SQL-Python-PowerBI
-Open Customer_Behavior_Analysis.ipynb notebook
+
+2) Open Customer_Behavior_Analysis.ipynb notebook
 
 This file contains:
 
